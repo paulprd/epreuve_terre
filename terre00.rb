@@ -1,4 +1,4 @@
-# l'alphabet
+# l'alphabet 
 
 for i in 0..25 do
 	char = ('a'.ord + i).chr
